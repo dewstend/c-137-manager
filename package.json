@@ -17,6 +17,7 @@
     "sqlite3": "^5.0.2"
   },
   "scripts": {
-    "start": "nodemon main.js"
+    "start": "nodemon main.js",
+    "initialize": "npx sequelize db:seed:undo:all && npx sequelize db:migrate:undo:all && npx sequelize db:migrate && npx sequelize db:seed:all"
   }
 }
