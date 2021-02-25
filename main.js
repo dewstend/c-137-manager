@@ -3,6 +3,8 @@ require('dotenv').config();
 const cors = require('cors');
 const path = require('path');
 
+const Auth = require('./models/').Auth;
+
 const app = express();
 
 const corsOptions = {
@@ -14,6 +16,26 @@ const corsOptions = {
 app.use(express.json());
 app.use(cors(corsOptions));
 
+(async () => {
+    try {
+        await Auth.findOne().then(res => {
+        	process.env.API_KEY = res.API_Key;
+        })
+    } catch (e) {
+        console.log(`Failed to obtain API Key`, e);
+    }
+})();
+
+// API Key
+app.all('/api/*', function(req, res, next) {
+	if (!req.headers.authorization) {
+    return res.status(403).json({ error: 'No API key was provided' });
+  } else if(req.headers.authorization !== process.env.API_KEY) {
+    return res.status(403).json({ error: 'Invalid API key' });
+  }
+  next();
+});
+
 // Database connection
 
 // Routes
@@ -21,7 +43,7 @@ const Locations = require('./routes/Locations');
 // const Episodes = require('./routes/Episodes');
 // const Characters = require('./routes/Characters');
 
-app.use('/locations', Locations);
+app.use('/api/locations', Locations);
 // app.use('/episodes', Episodes);
 // app.use('/characters', Characters);
 
