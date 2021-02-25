@@ -1,0 +1,6712 @@
+[
+  {
+    "id": 1,
+    "name": "Rick Sanchez",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 2,
+    "name": "Morty Smith",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/2.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 3,
+    "name": "Summer Smith",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/3.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 4,
+    "name": "Beth Smith",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/4.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 5,
+    "name": "Jerry Smith",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/5.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 6,
+    "name": "Abadango Cluster Princess",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/6.jpeg",
+    "location_id": 2
+  },
+  {
+    "id": 7,
+    "name": "Abradolf Lincler",
+    "status": "unknown",
+    "species": "Human",
+    "type": "Genetic experiment",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/7.jpeg",
+    "location_id": 21
+  },
+  {
+    "id": 8,
+    "name": "Adjudicator Rick",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/8.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 9,
+    "name": "Agency Director",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/9.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 10,
+    "name": "Alan Rails",
+    "status": "Dead",
+    "species": "Human",
+    "type": "Superhuman (Ghost trains summoner)",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/10.jpeg",
+    "location_id": 4
+  },
+  {
+    "id": 11,
+    "name": "Albert Einstein",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/11.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 12,
+    "name": "Alexander",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/12.jpeg",
+    "location_id": 5
+  },
+  {
+    "id": 13,
+    "name": "Alien Googah",
+    "status": "unknown",
+    "species": "Alien",
+    "type": "",
+    "gender": "unknown",
+    "image": "https://rickandmortyapi.com/api/character/avatar/13.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 14,
+    "name": "Alien Morty",
+    "status": "unknown",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/14.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 15,
+    "name": "Alien Rick",
+    "status": "unknown",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/15.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 16,
+    "name": "Amish Cyborg",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Parasite",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/16.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 17,
+    "name": "Annie",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/17.jpeg",
+    "location_id": 5
+  },
+  {
+    "id": 18,
+    "name": "Antenna Morty",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Human with antennae",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/18.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 19,
+    "name": "Antenna Rick",
+    "status": "unknown",
+    "species": "Human",
+    "type": "Human with antennae",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/19.jpeg",
+    "location_id": 0
+  },
+  {
+    "id": 20,
+    "name": "Ants in my Eyes Johnson",
+    "status": "unknown",
+    "species": "Human",
+    "type": "Human with ants in his eyes",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/20.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 21,
+    "name": "Aqua Morty",
+    "status": "unknown",
+    "species": "Humanoid",
+    "type": "Fish-Person",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/21.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 22,
+    "name": "Aqua Rick",
+    "status": "unknown",
+    "species": "Humanoid",
+    "type": "Fish-Person",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/22.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 23,
+    "name": "Arcade Alien",
+    "status": "unknown",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/23.jpeg",
+    "location_id": 7
+  },
+  {
+    "id": 24,
+    "name": "Armagheadon",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Cromulon",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/24.jpeg",
+    "location_id": 22
+  },
+  {
+    "id": 25,
+    "name": "Armothy",
+    "status": "Dead",
+    "species": "unknown",
+    "type": "Self-aware arm",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/25.jpeg",
+    "location_id": 8
+  },
+  {
+    "id": 26,
+    "name": "Arthricia",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Cat-Person",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/26.jpeg",
+    "location_id": 9
+  },
+  {
+    "id": 27,
+    "name": "Artist Morty",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/27.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 28,
+    "name": "Attila Starwar",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/28.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 29,
+    "name": "Baby Legs",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Human with baby legs",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/29.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 30,
+    "name": "Baby Poopybutthole",
+    "status": "Alive",
+    "species": "Poopybutthole",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/30.jpeg",
+    "location_id": 0
+  },
+  {
+    "id": 31,
+    "name": "Baby Wizard",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Parasite",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/31.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 32,
+    "name": "Bearded Lady",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Parasite",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/32.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 33,
+    "name": "Beebo",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/33.jpeg",
+    "location_id": 10
+  },
+  {
+    "id": 34,
+    "name": "Benjamin",
+    "status": "Alive",
+    "species": "Poopybutthole",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/34.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 35,
+    "name": "Bepisian",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Bepisian",
+    "gender": "unknown",
+    "image": "https://rickandmortyapi.com/api/character/avatar/35.jpeg",
+    "location_id": 11
+  },
+  {
+    "id": 36,
+    "name": "Beta-Seven",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Hivemind",
+    "gender": "unknown",
+    "image": "https://rickandmortyapi.com/api/character/avatar/36.jpeg",
+    "location_id": 0
+  },
+  {
+    "id": 37,
+    "name": "Beth Sanchez",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/37.jpeg",
+    "location_id": 23
+  },
+  {
+    "id": 38,
+    "name": "Beth Smith",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/38.jpeg",
+    "location_id": 1
+  },
+  {
+    "id": 39,
+    "name": "Beth Smith",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/39.jpeg",
+    "location_id": 34
+  },
+  {
+    "id": 40,
+    "name": "Beth's Mytholog",
+    "status": "Dead",
+    "species": "Mythological Creature",
+    "type": "Mytholog",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/40.jpeg",
+    "location_id": 13
+  },
+  {
+    "id": 41,
+    "name": "Big Boobed Waitress",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/41.jpeg",
+    "location_id": 48
+  },
+  {
+    "id": 42,
+    "name": "Big Head Morty",
+    "status": "unknown",
+    "species": "Human",
+    "type": "Human with giant head",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/42.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 43,
+    "name": "Big Morty",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/43.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 44,
+    "name": "Body Guard Morty",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/44.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 45,
+    "name": "Bill",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/45.jpeg",
+    "location_id": 1
+  },
+  {
+    "id": 46,
+    "name": "Bill",
+    "status": "unknown",
+    "species": "Animal",
+    "type": "Dog",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/46.jpeg",
+    "location_id": 0
+  },
+  {
+    "id": 47,
+    "name": "Birdperson",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Bird-Person",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/47.jpeg",
+    "location_id": 35
+  },
+  {
+    "id": 48,
+    "name": "Black Rick",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/48.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 49,
+    "name": "Blamph",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "unknown",
+    "image": "https://rickandmortyapi.com/api/character/avatar/49.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 50,
+    "name": "Blim Blam",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Korblock",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/50.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 51,
+    "name": "Blue Diplomat",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/51.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 52,
+    "name": "Blue Footprint Guy",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/52.jpeg",
+    "location_id": 8
+  },
+  {
+    "id": 53,
+    "name": "Blue Shirt Morty",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/53.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 54,
+    "name": "Bobby Moynihan",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/54.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 55,
+    "name": "Boobloosian",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Boobloosian",
+    "gender": "unknown",
+    "image": "https://rickandmortyapi.com/api/character/avatar/55.jpeg",
+    "location_id": 13
+  },
+  {
+    "id": 56,
+    "name": "Bootleg Portal Chemist Rick",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/56.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 57,
+    "name": "Borpocian",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Elephant-Person",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/57.jpeg",
+    "location_id": 0
+  },
+  {
+    "id": 58,
+    "name": "Brad",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/58.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 59,
+    "name": "Brad Anderson",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/59.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 60,
+    "name": "Calypso",
+    "status": "Dead",
+    "species": "Human",
+    "type": "Superhuman",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/60.jpeg",
+    "location_id": 0
+  },
+  {
+    "id": 81,
+    "name": "Crocubot",
+    "status": "Dead",
+    "species": "Animal",
+    "type": "Robot-Crocodile hybrid",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/81.jpeg",
+    "location_id": 4
+  },
+  {
+    "id": 82,
+    "name": "Cronenberg Rick",
+    "status": "unknown",
+    "species": "Cronenberg",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/82.jpeg",
+    "location_id": 1
+  },
+  {
+    "id": 83,
+    "name": "Cronenberg Morty",
+    "status": "unknown",
+    "species": "Cronenberg",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/83.jpeg",
+    "location_id": 1
+  },
+  {
+    "id": 84,
+    "name": "Cult Leader Morty",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/84.jpeg",
+    "location_id": 27
+  },
+  {
+    "id": 85,
+    "name": "Cyclops Morty",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/85.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 86,
+    "name": "Cyclops Rick",
+    "status": "Dead",
+    "species": "Humanoid",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/86.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 87,
+    "name": "Cynthia",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Zigerion",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/87.jpeg",
+    "location_id": 46
+  },
+  {
+    "id": 88,
+    "name": "Cynthia",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/88.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 89,
+    "name": "Dale",
+    "status": "Dead",
+    "species": "Mythological Creature",
+    "type": "Giant",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/89.jpeg",
+    "location_id": 14
+  },
+  {
+    "id": 90,
+    "name": "Daron Jefferson",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Cone-nippled alien",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/90.jpeg",
+    "location_id": 28
+  },
+  {
+    "id": 91,
+    "name": "David Letterman",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/91.jpeg",
+    "location_id": 23
+  },
+  {
+    "id": 92,
+    "name": "Davin",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/92.jpeg",
+    "location_id": 1
+  },
+  {
+    "id": 93,
+    "name": "Diablo Verde",
+    "status": "Dead",
+    "species": "Mythological Creature",
+    "type": "Demon",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/93.jpeg",
+    "location_id": 29
+  },
+  {
+    "id": 94,
+    "name": "Diane Sanchez",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/94.jpeg",
+    "location_id": 30
+  },
+  {
+    "id": 95,
+    "name": "Dipper and Mabel Mortys",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "unknown",
+    "image": "https://rickandmortyapi.com/api/character/avatar/95.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 96,
+    "name": "Tuberculosis",
+    "status": "Dead",
+    "species": "Disease",
+    "type": "",
+    "gender": "unknown",
+    "image": "https://rickandmortyapi.com/api/character/avatar/96.jpeg",
+    "location_id": 5
+  },
+  {
+    "id": 97,
+    "name": "Gonorrhea",
+    "status": "Dead",
+    "species": "Disease",
+    "type": "",
+    "gender": "unknown",
+    "image": "https://rickandmortyapi.com/api/character/avatar/97.jpeg",
+    "location_id": 5
+  },
+  {
+    "id": 98,
+    "name": "Hepatitis A",
+    "status": "Dead",
+    "species": "Disease",
+    "type": "",
+    "gender": "unknown",
+    "image": "https://rickandmortyapi.com/api/character/avatar/98.jpeg",
+    "location_id": 5
+  },
+  {
+    "id": 99,
+    "name": "Hepatitis C",
+    "status": "Dead",
+    "species": "Disease",
+    "type": "",
+    "gender": "unknown",
+    "image": "https://rickandmortyapi.com/api/character/avatar/99.jpeg",
+    "location_id": 5
+  },
+  {
+    "id": 100,
+    "name": "Bubonic Plague",
+    "status": "Dead",
+    "species": "Disease",
+    "type": "",
+    "gender": "unknown",
+    "image": "https://rickandmortyapi.com/api/character/avatar/100.jpeg",
+    "location_id": 5
+  },
+  {
+    "id": 61,
+    "name": "Campaign Manager Morty",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/61.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 62,
+    "name": "Canklanker Thom",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Gromflomite",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/62.jpeg",
+    "location_id": 0
+  },
+  {
+    "id": 63,
+    "name": "Centaur",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "type": "Centaur",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/63.jpeg",
+    "location_id": 18
+  },
+  {
+    "id": 64,
+    "name": "Chris",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Organic gun",
+    "gender": "unknown",
+    "image": "https://rickandmortyapi.com/api/character/avatar/64.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 65,
+    "name": "Chris",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "Microverse inhabitant",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/65.jpeg",
+    "location_id": 24
+  },
+  {
+    "id": 66,
+    "name": "Coach Feratu (Balik Alistane)",
+    "status": "Dead",
+    "species": "Mythological Creature",
+    "type": "Vampire",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/66.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 67,
+    "name": "Collector",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Light bulb-Alien",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/67.jpeg",
+    "location_id": 25
+  },
+  {
+    "id": 68,
+    "name": "Colossus",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/68.jpeg",
+    "location_id": 8
+  },
+  {
+    "id": 69,
+    "name": "Commander Rick",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/69.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 70,
+    "name": "Concerto",
+    "status": "Dead",
+    "species": "Humanoid",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/70.jpeg",
+    "location_id": 0
+  },
+  {
+    "id": 71,
+    "name": "Conroy",
+    "status": "Dead",
+    "species": "Robot",
+    "type": "",
+    "gender": "unknown",
+    "image": "https://rickandmortyapi.com/api/character/avatar/71.jpeg",
+    "location_id": 1
+  },
+  {
+    "id": 72,
+    "name": "Cool Rick",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/72.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 73,
+    "name": "Cop Morty",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/73.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 74,
+    "name": "Cop Rick",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/74.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 75,
+    "name": "Courier Flap",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "unknown",
+    "image": "https://rickandmortyapi.com/api/character/avatar/75.jpeg",
+    "location_id": 35
+  },
+  {
+    "id": 76,
+    "name": "Cousin Nicky",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Parasite",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/76.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 77,
+    "name": "Cowboy Morty",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/77.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 78,
+    "name": "Cowboy Rick",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/78.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 79,
+    "name": "Crab Spider",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Animal",
+    "gender": "unknown",
+    "image": "https://rickandmortyapi.com/api/character/avatar/79.jpeg",
+    "location_id": 27
+  },
+  {
+    "id": 80,
+    "name": "Creepy Little Girl",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/80.jpeg",
+    "location_id": 18
+  },
+  {
+    "id": 101,
+    "name": "E. Coli",
+    "status": "Dead",
+    "species": "Disease",
+    "type": "",
+    "gender": "unknown",
+    "image": "https://rickandmortyapi.com/api/character/avatar/101.jpeg",
+    "location_id": 5
+  },
+  {
+    "id": 102,
+    "name": "Donna Gueterman",
+    "status": "Dead",
+    "species": "Robot",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/102.jpeg",
+    "location_id": 35
+  },
+  {
+    "id": 103,
+    "name": "Doofus Rick",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/103.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 104,
+    "name": "Doom-Nomitron",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Shapeshifter",
+    "gender": "unknown",
+    "image": "https://rickandmortyapi.com/api/character/avatar/104.jpeg",
+    "location_id": 29
+  },
+  {
+    "id": 105,
+    "name": "Dr. Glip-Glop",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/105.jpeg",
+    "location_id": 16
+  },
+  {
+    "id": 106,
+    "name": "Dr. Schmidt",
+    "status": "unknown",
+    "species": "Human",
+    "type": "Game",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/106.jpeg",
+    "location_id": 32
+  },
+  {
+    "id": 107,
+    "name": "Dr. Wong",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/107.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 108,
+    "name": "Dr. Xenon Bloom",
+    "status": "Dead",
+    "species": "Humanoid",
+    "type": "Amoeba-Person",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/108.jpeg",
+    "location_id": 5
+  },
+  {
+    "id": 109,
+    "name": "Duck With Muscles",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Parasite",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/109.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 110,
+    "name": "Eli",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/110.jpeg",
+    "location_id": 8
+  },
+  {
+    "id": 111,
+    "name": "Eli's Girlfriend",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/111.jpeg",
+    "location_id": 8
+  },
+  {
+    "id": 112,
+    "name": "Eric McMan",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/112.jpeg",
+    "location_id": 1
+  },
+  {
+    "id": 113,
+    "name": "Eric Stoltz Mask Morty",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/113.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 114,
+    "name": "Ethan",
+    "status": "unknown",
+    "species": "Human",
+    "type": "Cronenberg",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/114.jpeg",
+    "location_id": 1
+  },
+  {
+    "id": 115,
+    "name": "Ethan",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/115.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 116,
+    "name": "Evil Beth Clone",
+    "status": "Dead",
+    "species": "Human",
+    "type": "Clone",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/116.jpeg",
+    "location_id": 1
+  },
+  {
+    "id": 117,
+    "name": "Evil Jerry Clone",
+    "status": "Dead",
+    "species": "Human",
+    "type": "Clone",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/117.jpeg",
+    "location_id": 1
+  },
+  {
+    "id": 118,
+    "name": "Evil Morty",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/118.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 119,
+    "name": "Evil Rick",
+    "status": "Dead",
+    "species": "Humanoid",
+    "type": "Robot",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/119.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 120,
+    "name": "Evil Summer Clone",
+    "status": "Dead",
+    "species": "Human",
+    "type": "Clone",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/120.jpeg",
+    "location_id": 1
+  },
+  {
+    "id": 241,
+    "name": "Mr. Marklovitz",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/241.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 242,
+    "name": "Mr. Meeseeks",
+    "status": "unknown",
+    "species": "Humanoid",
+    "type": "Meeseeks",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/242.jpeg",
+    "location_id": 77
+  },
+  {
+    "id": 243,
+    "name": "Mr. Needful",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "The Devil",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/243.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 244,
+    "name": "Mr. Poopybutthole",
+    "status": "Alive",
+    "species": "Poopybutthole",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/244.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 245,
+    "name": "Mrs. Lipkip",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/245.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 246,
+    "name": "Mrs. Pancakes",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/246.jpeg",
+    "location_id": 18
+  },
+  {
+    "id": 247,
+    "name": "Mrs. Poopybutthole",
+    "status": "Alive",
+    "species": "Poopybutthole",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/247.jpeg",
+    "location_id": 0
+  },
+  {
+    "id": 248,
+    "name": "Mrs. Refrigerator",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Parasite",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/248.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 249,
+    "name": "Mrs. Sanchez",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/249.jpeg",
+    "location_id": 0
+  },
+  {
+    "id": 250,
+    "name": "Mrs. Sullivan",
+    "status": "Dead",
+    "species": "Human",
+    "type": "Cat controlled dead lady",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/250.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 251,
+    "name": "Nancy",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/251.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 252,
+    "name": "Noob-Noob",
+    "status": "Alive",
+    "species": "Poopybutthole",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/252.jpeg",
+    "location_id": 54
+  },
+  {
+    "id": 253,
+    "name": "Numbericon",
+    "status": "unknown",
+    "species": "Alien",
+    "type": "Numbericon",
+    "gender": "unknown",
+    "image": "https://rickandmortyapi.com/api/character/avatar/253.jpeg",
+    "location_id": 43
+  },
+  {
+    "id": 254,
+    "name": "Octopus Man",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "Octopus-Person",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/254.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 255,
+    "name": "Orthodox Jew",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/255.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 256,
+    "name": "Pat Gueterman",
+    "status": "Dead",
+    "species": "Robot",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/256.jpeg",
+    "location_id": 35
+  },
+  {
+    "id": 257,
+    "name": "Paul Fleishman",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/257.jpeg",
+    "location_id": 44
+  },
+  {
+    "id": 258,
+    "name": "Pawnshop Clerk",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/258.jpeg",
+    "location_id": 55
+  },
+  {
+    "id": 259,
+    "name": "Pencilvester",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Parasite",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/259.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 260,
+    "name": "Phillip Jacobs",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/260.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 521,
+    "name": "Wasp Beth",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Wasp",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/521.jpeg",
+    "location_id": 82
+  },
+  {
+    "id": 522,
+    "name": "Caterpillar Mr. Goldenfold’s Larvae",
+    "status": "Dead",
+    "species": "Animal",
+    "type": "Caterpillar",
+    "gender": "unknown",
+    "image": "https://rickandmortyapi.com/api/character/avatar/522.jpeg",
+    "location_id": 82
+  },
+  {
+    "id": 523,
+    "name": "Boglin",
+    "status": "unknown",
+    "species": "unknown",
+    "type": "Toy",
+    "gender": "unknown",
+    "image": "https://rickandmortyapi.com/api/character/avatar/523.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 524,
+    "name": "Kirkland Brand Mr. Meeseeks",
+    "status": "unknown",
+    "species": "Humanoid",
+    "type": "Meeseeks",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/524.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 525,
+    "name": "Glootie",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Monogatron",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/525.jpeg",
+    "location_id": 83
+  },
+  {
+    "id": 526,
+    "name": "Danny Publitz",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/526.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 527,
+    "name": "Mothership Intern",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Monogatron",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/527.jpeg",
+    "location_id": 83
+  },
+  {
+    "id": 528,
+    "name": "Monogatron Leader",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Monogatron",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/528.jpeg",
+    "location_id": 83
+  },
+  {
+    "id": 529,
+    "name": "Lizard",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Lizard",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/529.jpeg",
+    "location_id": 85
+  },
+  {
+    "id": 530,
+    "name": "Deliverance",
+    "status": "Dead",
+    "species": "Robot",
+    "type": "",
+    "gender": "Genderless",
+    "image": "https://rickandmortyapi.com/api/character/avatar/530.jpeg",
+    "location_id": 85
+  },
+  {
+    "id": 531,
+    "name": "Tony",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/531.jpeg",
+    "location_id": 86
+  },
+  {
+    "id": 532,
+    "name": "Tony’s Wife",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/532.jpeg",
+    "location_id": 87
+  },
+  {
+    "id": 533,
+    "name": "Monogatron Queen",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Monogatron",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/533.jpeg",
+    "location_id": 83
+  },
+  {
+    "id": 534,
+    "name": "Tony's Dad",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/534.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 535,
+    "name": "Jeff",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/535.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 536,
+    "name": "Josiah",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/536.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 537,
+    "name": "Maggie",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/537.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 538,
+    "name": "Priest Witherspoon",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/538.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 539,
+    "name": "Richard",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/539.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 540,
+    "name": "Running Bird",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/540.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 561,
+    "name": "Netflix Executive",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/561.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 562,
+    "name": "Balthromaw",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "type": "Dragon",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/562.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 563,
+    "name": "The Wizard",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/563.jpeg",
+    "location_id": 94
+  },
+  {
+    "id": 564,
+    "name": "Talking Cat",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/564.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 565,
+    "name": "Debrah",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "type": "Dragon",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/565.jpeg",
+    "location_id": 94
+  },
+  {
+    "id": 566,
+    "name": "Debrah’s Partner",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "type": "Dragon",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/566.jpeg",
+    "location_id": 94
+  },
+  {
+    "id": 567,
+    "name": "Michael",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "type": "Dragon",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/567.jpeg",
+    "location_id": 94
+  },
+  {
+    "id": 568,
+    "name": "Slut Dragon",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "type": "Dragon",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/568.jpeg",
+    "location_id": 94
+  },
+  {
+    "id": 569,
+    "name": "Shadow Jacker",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "type": "Dragon",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/569.jpeg",
+    "location_id": 94
+  },
+  {
+    "id": 570,
+    "name": "Chachi",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/570.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 571,
+    "name": "Slippy",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Snake",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/571.jpeg",
+    "location_id": 78
+  },
+  {
+    "id": 572,
+    "name": "Robot Snake",
+    "status": "unknown",
+    "species": "Robot",
+    "type": "Snake",
+    "gender": "Genderless",
+    "image": "https://rickandmortyapi.com/api/character/avatar/572.jpeg",
+    "location_id": 78
+  },
+  {
+    "id": 573,
+    "name": "Snake Hitler",
+    "status": "Dead",
+    "species": "Animal",
+    "type": "Snake",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/573.jpeg",
+    "location_id": 78
+  },
+  {
+    "id": 574,
+    "name": "Snake Lincoln",
+    "status": "Dead",
+    "species": "Animal",
+    "type": "Snake",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/574.jpeg",
+    "location_id": 78
+  },
+  {
+    "id": 575,
+    "name": "Snake Resistance Robot",
+    "status": "Dead",
+    "species": "Robot",
+    "type": "Human-Snake hybrid",
+    "gender": "Genderless",
+    "image": "https://rickandmortyapi.com/api/character/avatar/575.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 576,
+    "name": "Snake Linguist",
+    "status": "unknown",
+    "species": "Animal",
+    "type": "Snake",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/576.jpeg",
+    "location_id": 78
+  },
+  {
+    "id": 577,
+    "name": "Snake Terminator",
+    "status": "unknown",
+    "species": "Robot",
+    "type": "Snake",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/577.jpeg",
+    "location_id": 78
+  },
+  {
+    "id": 578,
+    "name": "Snake Soldier",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Snake",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/578.jpeg",
+    "location_id": 78
+  },
+  {
+    "id": 579,
+    "name": "Snake with Legs",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Snake",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/579.jpeg",
+    "location_id": 78
+  },
+  {
+    "id": 580,
+    "name": "Secret Service Snake",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Snake",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/580.jpeg",
+    "location_id": 78
+  },
+  {
+    "id": 361,
+    "name": "Toxic Rick",
+    "status": "Dead",
+    "species": "Humanoid",
+    "type": "Rick's toxic side",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/361.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 362,
+    "name": "Traflorkian",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Traflorkian",
+    "gender": "unknown",
+    "image": "https://rickandmortyapi.com/api/character/avatar/362.jpeg",
+    "location_id": 4
+  },
+  {
+    "id": 363,
+    "name": "Trandor",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Krootabulan",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/363.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 364,
+    "name": "Tree Person",
+    "status": "Dead",
+    "species": "Humanoid",
+    "type": "Teenyverse inhabitant",
+    "gender": "unknown",
+    "image": "https://rickandmortyapi.com/api/character/avatar/364.jpeg",
+    "location_id": 50
+  },
+  {
+    "id": 365,
+    "name": "Tricia Lange",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/365.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 366,
+    "name": "Trunk Morty",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "Trunk-Person",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/366.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 367,
+    "name": "Trunk Man",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "Trunk-Person",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/367.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 368,
+    "name": "Truth Tortoise",
+    "status": "unknown",
+    "species": "Mythological Creature",
+    "type": "Omniscient being",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/368.jpeg",
+    "location_id": 0
+  },
+  {
+    "id": 369,
+    "name": "Tusked Assassin",
+    "status": "unknown",
+    "species": "Alien",
+    "type": "Tuskfish",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/369.jpeg",
+    "location_id": 37
+  },
+  {
+    "id": 370,
+    "name": "Two Guys with Handlebar Mustaches",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/370.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 371,
+    "name": "Tumblorkian",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Tumblorkian",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/371.jpeg",
+    "location_id": 66
+  },
+  {
+    "id": 372,
+    "name": "Unity",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Hivemind",
+    "gender": "Genderless",
+    "image": "https://rickandmortyapi.com/api/character/avatar/372.jpeg",
+    "location_id": 28
+  },
+  {
+    "id": 373,
+    "name": "Unmuscular Michael",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/373.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 374,
+    "name": "Vampire Master",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "type": "Vampire",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/374.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 375,
+    "name": "Vance Maximus",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/375.jpeg",
+    "location_id": 4
+  },
+  {
+    "id": 376,
+    "name": "Veronica Ann Bennet",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Gazorpian",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/376.jpeg",
+    "location_id": 40
+  },
+  {
+    "id": 377,
+    "name": "Voltematron",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Parasite",
+    "gender": "unknown",
+    "image": "https://rickandmortyapi.com/api/character/avatar/377.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 378,
+    "name": "Wall Crawling Rick",
+    "status": "unknown",
+    "species": "Humanoid",
+    "type": "Lizard-Person",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/378.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 379,
+    "name": "Wedding Bartender",
+    "status": "unknown",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/379.jpeg",
+    "location_id": 35
+  },
+  {
+    "id": 380,
+    "name": "Weird Rick",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/380.jpeg",
+    "location_id": 0
+  },
+  {
+    "id": 581,
+    "name": "Anchosnake",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Snake",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/581.jpeg",
+    "location_id": 78
+  },
+  {
+    "id": 582,
+    "name": "Anchosnake",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Snake",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/582.jpeg",
+    "location_id": 78
+  },
+  {
+    "id": 583,
+    "name": "80's snake",
+    "status": "unknown",
+    "species": "Animal",
+    "type": "Snake",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/583.jpeg",
+    "location_id": 78
+  },
+  {
+    "id": 584,
+    "name": "Bar Customer",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/584.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 585,
+    "name": "Bartender",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/585.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 586,
+    "name": "PC Basketball Player",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/586.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 587,
+    "name": "Cavesnake",
+    "status": "Dead",
+    "species": "Animal",
+    "type": "Snake",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/587.jpeg",
+    "location_id": 78
+  },
+  {
+    "id": 588,
+    "name": "Pet Shop Employee",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/588.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 589,
+    "name": "Snake Reporter",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Snake",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/589.jpeg",
+    "location_id": 78
+  },
+  {
+    "id": 590,
+    "name": "High Pilot",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/590.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 591,
+    "name": "High Pilot",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/591.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 592,
+    "name": "Phoenixperson",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Cyborg",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/592.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 593,
+    "name": "Tickets Please Guy",
+    "status": "Dead",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/593.jpeg",
+    "location_id": 97
+  },
+  {
+    "id": 594,
+    "name": "Floaty Bloody Man",
+    "status": "Dead",
+    "species": "Human",
+    "type": "Half Soulless Puppet",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/594.jpeg",
+    "location_id": 98
+  },
+  {
+    "id": 595,
+    "name": "Floaty Non-Gasm Brotherhood Member",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/595.jpeg",
+    "location_id": 98
+  },
+  {
+    "id": 596,
+    "name": "Floaty Non-Gasm Brotherhood Member Friend",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Soulless Puppet",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/596.jpeg",
+    "location_id": 98
+  },
+  {
+    "id": 597,
+    "name": "Abradolf Lincler",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/597.jpeg",
+    "location_id": 96
+  },
+  {
+    "id": 598,
+    "name": "Biblesaurus",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/598.jpeg",
+    "location_id": 96
+  },
+  {
+    "id": 599,
+    "name": "Birdperson",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/599.jpeg",
+    "location_id": 96
+  },
+  {
+    "id": 600,
+    "name": "Cats Fan",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Soulless Puppet",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/600.jpeg",
+    "location_id": 96
+  },
+  {
+    "id": 461,
+    "name": "Communication's Responsible Rick",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/461.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 462,
+    "name": "Teleportation's Responsible Rick",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/462.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 463,
+    "name": "SEAL Team Rick",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/463.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 464,
+    "name": "SEAL Team Rick",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/464.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 465,
+    "name": "SEAL Team Rick",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/465.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 466,
+    "name": "SEAL Team Rick",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/466.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 467,
+    "name": "Morphizer-XE Customer Support",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/467.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 468,
+    "name": "Morphizer-XE Customer Support",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/468.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 469,
+    "name": "Morphizer-XE Customer Support",
+    "status": "unknown",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/469.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 470,
+    "name": "Alien Spa Employee",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/470.jpeg",
+    "location_id": 76
+  },
+  {
+    "id": 471,
+    "name": "Little Voltron",
+    "status": "Alive",
+    "species": "Robot",
+    "type": "",
+    "gender": "Genderless",
+    "image": "https://rickandmortyapi.com/api/character/avatar/471.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 472,
+    "name": "Baby Rick",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Clone",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/472.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 473,
+    "name": "Bartender Morty",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/473.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 474,
+    "name": "Dancer Cowboy Morty",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/474.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 475,
+    "name": "Dancer Morty",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/475.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 476,
+    "name": "Flower Morty",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Human with a flower in his head",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/476.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 477,
+    "name": "Hairdresser Rick",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/477.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 478,
+    "name": "Journalist Rick",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/478.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 479,
+    "name": "Private Sector Rick",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/479.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 480,
+    "name": "Purple Morty",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/480.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 641,
+    "name": "Bruce",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Glorzo",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/641.jpeg",
+    "location_id": 101
+  },
+  {
+    "id": 642,
+    "name": "Council of Glorzos Member",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Glorzo",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/642.jpeg",
+    "location_id": 101
+  },
+  {
+    "id": 643,
+    "name": "Council of Glorzos Member",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Glorzo",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/643.jpeg",
+    "location_id": 101
+  },
+  {
+    "id": 644,
+    "name": "Old Glorzo",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Glorzo",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/644.jpeg",
+    "location_id": 101
+  },
+  {
+    "id": 645,
+    "name": "Shane",
+    "status": "unknown",
+    "species": "Alien",
+    "type": "Glorzo",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/645.jpeg",
+    "location_id": 101
+  },
+  {
+    "id": 646,
+    "name": "Steve",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Glorzo",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/646.jpeg",
+    "location_id": 101
+  },
+  {
+    "id": 647,
+    "name": "Troy",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Glorzo",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/647.jpeg",
+    "location_id": 101
+  },
+  {
+    "id": 648,
+    "name": "Crystal Dealers Boss",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/648.jpeg",
+    "location_id": 102
+  },
+  {
+    "id": 649,
+    "name": "Crystal Dealer",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/649.jpeg",
+    "location_id": 102
+  },
+  {
+    "id": 650,
+    "name": "Crystal Dealer",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/650.jpeg",
+    "location_id": 102
+  },
+  {
+    "id": 651,
+    "name": "Crystal Dealer",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/651.jpeg",
+    "location_id": 102
+  },
+  {
+    "id": 652,
+    "name": "SWAT Officer",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/652.jpeg",
+    "location_id": 103
+  },
+  {
+    "id": 653,
+    "name": "Plane Crash Survivor",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/653.jpeg",
+    "location_id": 104
+  },
+  {
+    "id": 654,
+    "name": "Plane Crash Survivor",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/654.jpeg",
+    "location_id": 104
+  },
+  {
+    "id": 655,
+    "name": "Heroine Keith",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/655.jpeg",
+    "location_id": 103
+  },
+  {
+    "id": 656,
+    "name": "Impervious to Acid SWAT Officer",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/656.jpeg",
+    "location_id": 103
+  },
+  {
+    "id": 657,
+    "name": "Johnny Carson",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/657.jpeg",
+    "location_id": 103
+  },
+  {
+    "id": 658,
+    "name": "Sonia Sotomayor",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/658.jpeg",
+    "location_id": 103
+  },
+  {
+    "id": 659,
+    "name": "Morty’s Father-in-law",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/659.jpeg",
+    "location_id": 104
+  },
+  {
+    "id": 660,
+    "name": "Morty’s Mother-in-law",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/660.jpeg",
+    "location_id": 104
+  },
+  {
+    "id": 661,
+    "name": "Morty’s Girlfriend",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/661.jpeg",
+    "location_id": 103
+  },
+  {
+    "id": 662,
+    "name": "Gaia",
+    "status": "Alive",
+    "species": "Planet",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/662.jpeg",
+    "location_id": 106
+  },
+  {
+    "id": 663,
+    "name": "Reggie",
+    "status": "Dead",
+    "species": "Mythological Creature",
+    "type": "Zeus",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/663.jpeg",
+    "location_id": 106
+  },
+  {
+    "id": 664,
+    "name": "Ticktock",
+    "status": "unknown",
+    "species": "Humanoid",
+    "type": "Clay-Person",
+    "gender": "Genderless",
+    "image": "https://rickandmortyapi.com/api/character/avatar/664.jpeg",
+    "location_id": 106
+  },
+  {
+    "id": 665,
+    "name": "Florflock",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "Clay-Person",
+    "gender": "Genderless",
+    "image": "https://rickandmortyapi.com/api/character/avatar/665.jpeg",
+    "location_id": 106
+  },
+  {
+    "id": 666,
+    "name": "Squeeb",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "Clay-Person",
+    "gender": "Genderless",
+    "image": "https://rickandmortyapi.com/api/character/avatar/666.jpeg",
+    "location_id": 106
+  },
+  {
+    "id": 667,
+    "name": "Defiance Beth",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/667.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 668,
+    "name": "Defiance Squanchette",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Cat-Person",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/668.jpeg",
+    "location_id": 107
+  },
+  {
+    "id": 669,
+    "name": "Defiance Doctor",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/669.jpeg",
+    "location_id": 108
+  },
+  {
+    "id": 670,
+    "name": "New Improved Galactic Federation Guard",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Gromflomite",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/670.jpeg",
+    "location_id": 105
+  },
+  {
+    "id": 671,
+    "name": "New Improved Galactic Federation Guard",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Gromflomite",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/671.jpeg",
+    "location_id": 105
+  },
+  {
+    "id": 541,
+    "name": "Secretary at Tony's",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/541.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 542,
+    "name": "Mountain Sweat Jerry",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/542.jpeg",
+    "location_id": 87
+  },
+  {
+    "id": 543,
+    "name": "Vermigurber",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Fly",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/543.jpeg",
+    "location_id": 84
+  },
+  {
+    "id": 544,
+    "name": "Miles Knightly",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/544.jpeg",
+    "location_id": 88
+  },
+  {
+    "id": 545,
+    "name": "Heist-Con Receptionist",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/545.jpeg",
+    "location_id": 88
+  },
+  {
+    "id": 546,
+    "name": "Angie Flint",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Cyborg",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/546.jpeg",
+    "location_id": 88
+  },
+  {
+    "id": 547,
+    "name": "Glar",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/547.jpeg",
+    "location_id": 88
+  },
+  {
+    "id": 548,
+    "name": "Truckula",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "type": "Vampire",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/548.jpeg",
+    "location_id": 88
+  },
+  {
+    "id": 549,
+    "name": "Snake Arms",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/549.jpeg",
+    "location_id": 88
+  },
+  {
+    "id": 550,
+    "name": "Double Microwawe",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "Cyborg",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/550.jpeg",
+    "location_id": 88
+  },
+  {
+    "id": 551,
+    "name": "Monitor Lord",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/551.jpeg",
+    "location_id": 88
+  },
+  {
+    "id": 552,
+    "name": "Key Catcher",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/552.jpeg",
+    "location_id": 88
+  },
+  {
+    "id": 553,
+    "name": "The Shapeshiftress",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Shapeshifter",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/553.jpeg",
+    "location_id": 88
+  },
+  {
+    "id": 554,
+    "name": "Heistotron",
+    "status": "Dead",
+    "species": "Robot",
+    "type": "",
+    "gender": "Genderless",
+    "image": "https://rickandmortyapi.com/api/character/avatar/554.jpeg",
+    "location_id": 89
+  },
+  {
+    "id": 555,
+    "name": "Randotron",
+    "status": "Dead",
+    "species": "Robot",
+    "type": "",
+    "gender": "Genderless",
+    "image": "https://rickandmortyapi.com/api/character/avatar/555.jpeg",
+    "location_id": 89
+  },
+  {
+    "id": 556,
+    "name": "Hephaestus",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "type": "God",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/556.jpeg",
+    "location_id": 89
+  },
+  {
+    "id": 557,
+    "name": "Ventriloquiver",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "Dummy",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/557.jpeg",
+    "location_id": 89
+  },
+  {
+    "id": 558,
+    "name": "Elon Tusk",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Human with tusks",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/558.jpeg",
+    "location_id": 89
+  },
+  {
+    "id": 559,
+    "name": "Gramuflackian Anchorman",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Gramuflackian",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/559.jpeg",
+    "location_id": 93
+  },
+  {
+    "id": 560,
+    "name": "Gramuflackian General",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Gramuflackian",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/560.jpeg",
+    "location_id": 93
+  },
+  {
+    "id": 381,
+    "name": "Woman Rick",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Chair",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/381.jpeg",
+    "location_id": 0
+  },
+  {
+    "id": 382,
+    "name": "Worldender",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/382.jpeg",
+    "location_id": 4
+  },
+  {
+    "id": 383,
+    "name": "Yaarb",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/383.jpeg",
+    "location_id": 16
+  },
+  {
+    "id": 384,
+    "name": "Yellow Headed Doctor",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/384.jpeg",
+    "location_id": 16
+  },
+  {
+    "id": 385,
+    "name": "Yellow Shirt Rick",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/385.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 386,
+    "name": "Zarbadar Gloonch",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Drumbloxian",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/386.jpeg",
+    "location_id": 13
+  },
+  {
+    "id": 387,
+    "name": "Zarbadar's Mytholog",
+    "status": "unknown",
+    "species": "Mythological Creature",
+    "type": "Mytholog",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/387.jpeg",
+    "location_id": 13
+  },
+  {
+    "id": 388,
+    "name": "Zeep Xanflorp",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "Microverse inhabitant",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/388.jpeg",
+    "location_id": 24
+  },
+  {
+    "id": 389,
+    "name": "Zeta Alpha Rick",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/389.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 390,
+    "name": "Zick Zack",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Floop Floopian",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/390.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 391,
+    "name": "Uncle Steve",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Parasite",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/391.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 392,
+    "name": "Bearded Morty",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/392.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 393,
+    "name": "Roy",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Game",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/393.jpeg",
+    "location_id": 32
+  },
+  {
+    "id": 394,
+    "name": "Davin",
+    "status": "Dead",
+    "species": "Cronenberg",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/394.jpeg",
+    "location_id": 1
+  },
+  {
+    "id": 395,
+    "name": "Greebybobe",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Greebybobe",
+    "gender": "unknown",
+    "image": "https://rickandmortyapi.com/api/character/avatar/395.jpeg",
+    "location_id": 4
+  },
+  {
+    "id": 396,
+    "name": "Scary Teacher",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "type": "Monster",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/396.jpeg",
+    "location_id": 18
+  },
+  {
+    "id": 397,
+    "name": "Fido",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Dog",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/397.jpeg",
+    "location_id": 70
+  },
+  {
+    "id": 398,
+    "name": "Accountant dog",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Dog",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/398.jpeg",
+    "location_id": 70
+  },
+  {
+    "id": 399,
+    "name": "Tiny-persons advocacy group lawyer",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "type": "Giant",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/399.jpeg",
+    "location_id": 14
+  },
+  {
+    "id": 400,
+    "name": "Giant Judge",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "type": "Giant",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/400.jpeg",
+    "location_id": 14
+  },
+  {
+    "id": 481,
+    "name": "Retired General Rick",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/481.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 482,
+    "name": "Secret Service Rick",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/482.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 483,
+    "name": "Steve Jobs Rick",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/483.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 484,
+    "name": "Sheik Rick",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/484.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 485,
+    "name": "Modern Rick",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/485.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 486,
+    "name": "Tan Rick",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/486.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 487,
+    "name": "Visor Rick",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/487.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 488,
+    "name": "Colonial Rick",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/488.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 489,
+    "name": "P-Coat Rick",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/489.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 490,
+    "name": "Chang",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/490.jpeg",
+    "location_id": 25
+  },
+  {
+    "id": 491,
+    "name": "Dr. Eleanor Arroway",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/491.jpeg",
+    "location_id": 25
+  },
+  {
+    "id": 492,
+    "name": "Varrix",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "unknown",
+    "image": "https://rickandmortyapi.com/api/character/avatar/492.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 493,
+    "name": "Secretary of the Interior",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/493.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 494,
+    "name": "Crystal Poacher",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/494.jpeg",
+    "location_id": 79
+  },
+  {
+    "id": 495,
+    "name": "Crystal Poacher",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/495.jpeg",
+    "location_id": 79
+  },
+  {
+    "id": 496,
+    "name": "Crystal Poacher",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/496.jpeg",
+    "location_id": 79
+  },
+  {
+    "id": 497,
+    "name": "Hologram Rick",
+    "status": "Dead",
+    "species": "Humanoid",
+    "type": "Hologram",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/497.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 498,
+    "name": "Fascist Rick",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/498.jpeg",
+    "location_id": 77
+  },
+  {
+    "id": 499,
+    "name": "Fascist Morty",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/499.jpeg",
+    "location_id": 77
+  },
+  {
+    "id": 500,
+    "name": "Fascist Mr. President",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/500.jpeg",
+    "location_id": 77
+  },
+  {
+    "id": 421,
+    "name": "Rich Plutonian",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Plutonian",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/421.jpeg",
+    "location_id": 47
+  },
+  {
+    "id": 422,
+    "name": "Rich Plutonian",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Plutonian",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/422.jpeg",
+    "location_id": 47
+  },
+  {
+    "id": 423,
+    "name": "Synthetic Laser Eels",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Eel",
+    "gender": "unknown",
+    "image": "https://rickandmortyapi.com/api/character/avatar/423.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 424,
+    "name": "Pizza-person",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "Pizza",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/424.jpeg",
+    "location_id": 71
+  },
+  {
+    "id": 425,
+    "name": "Pizza-person",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "Pizza",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/425.jpeg",
+    "location_id": 71
+  },
+  {
+    "id": 426,
+    "name": "Greasy Grandma",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Grandma",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/426.jpeg",
+    "location_id": 73
+  },
+  {
+    "id": 427,
+    "name": "Phone-person",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "Phone",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/427.jpeg",
+    "location_id": 72
+  },
+  {
+    "id": 428,
+    "name": "Phone-person",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "Phone",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/428.jpeg",
+    "location_id": 72
+  },
+  {
+    "id": 429,
+    "name": "Chair-person",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "Chair",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/429.jpeg",
+    "location_id": 74
+  },
+  {
+    "id": 430,
+    "name": "Chair-person",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "Chair",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/430.jpeg",
+    "location_id": 74
+  },
+  {
+    "id": 431,
+    "name": "Chair-homeless",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "Chair",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/431.jpeg",
+    "location_id": 74
+  },
+  {
+    "id": 432,
+    "name": "Chair-waiter",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "Chair",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/432.jpeg",
+    "location_id": 74
+  },
+  {
+    "id": 433,
+    "name": "Doopidoo",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Doopidoo",
+    "gender": "unknown",
+    "image": "https://rickandmortyapi.com/api/character/avatar/433.jpeg",
+    "location_id": 0
+  },
+  {
+    "id": 434,
+    "name": "Super Weird Rick",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/434.jpeg",
+    "location_id": 0
+  },
+  {
+    "id": 435,
+    "name": "Pripudlian",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Pripudlian",
+    "gender": "unknown",
+    "image": "https://rickandmortyapi.com/api/character/avatar/435.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 436,
+    "name": "Giant Testicle Monster",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "unknown",
+    "image": "https://rickandmortyapi.com/api/character/avatar/436.jpeg",
+    "location_id": 21
+  },
+  {
+    "id": 437,
+    "name": "Michael",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/437.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 438,
+    "name": "Michael's Lawyer",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/438.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 439,
+    "name": "Veterinary",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/439.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 440,
+    "name": "Veterinary Nurse",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/440.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 401,
+    "name": "Morty Jr's interviewer",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/401.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 402,
+    "name": "Guy from The Bachelor",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/402.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 403,
+    "name": "Corn detective",
+    "status": "Dead",
+    "species": "Humanoid",
+    "type": "Corn-person",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/403.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 404,
+    "name": "Michael Jackson",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "Phone-Person",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/404.jpeg",
+    "location_id": 72
+  },
+  {
+    "id": 405,
+    "name": "Trunkphobic suspenders guy",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/405.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 406,
+    "name": "Spiderweb teddy bear",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Teddy Bear",
+    "gender": "unknown",
+    "image": "https://rickandmortyapi.com/api/character/avatar/406.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 407,
+    "name": "Regular Tyrion Lannister",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/407.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 408,
+    "name": "Quick Mystery Presenter",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/408.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 409,
+    "name": "Mr. Sneezy",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Little Human",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/409.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 410,
+    "name": "Two Brothers",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/410.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 411,
+    "name": "Alien Mexican Armada",
+    "status": "unknown",
+    "species": "Alien",
+    "type": "Mexican",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/411.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 412,
+    "name": "Giant Cat Monster",
+    "status": "unknown",
+    "species": "Animal",
+    "type": "Giant Cat Monster",
+    "gender": "unknown",
+    "image": "https://rickandmortyapi.com/api/character/avatar/412.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 413,
+    "name": "Old Women",
+    "status": "unknown",
+    "species": "Human",
+    "type": "Old Amazons",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/413.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 414,
+    "name": "Trunkphobic guy",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/414.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 415,
+    "name": "Pro trunk people marriage guy",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/415.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 416,
+    "name": "Muscular Mannie",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Mannie",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/416.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 417,
+    "name": "Baby Legs Chief",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/417.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 418,
+    "name": "Mrs. Sullivan's Boyfriend",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Necrophiliac",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/418.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 419,
+    "name": "Plutonian Hostess",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Plutonian",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/419.jpeg",
+    "location_id": 47
+  },
+  {
+    "id": 420,
+    "name": "Plutonian Host",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Plutonian",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/420.jpeg",
+    "location_id": 47
+  },
+  {
+    "id": 501,
+    "name": "Fascist Rick’s Clone",
+    "status": "Dead",
+    "species": "Human",
+    "type": "Clone",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/501.jpeg",
+    "location_id": 77
+  },
+  {
+    "id": 502,
+    "name": "Revolio Clockberg Jr.",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Gear-Person",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/502.jpeg",
+    "location_id": 77
+  },
+  {
+    "id": 503,
+    "name": "Fascist Shrimp Rick",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Shrimp",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/503.jpeg",
+    "location_id": 80
+  },
+  {
+    "id": 504,
+    "name": "Fascist Shrimp Rick’s Clone",
+    "status": "Dead",
+    "species": "Animal",
+    "type": "Shrimp",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/504.jpeg",
+    "location_id": 80
+  },
+  {
+    "id": 505,
+    "name": "Fascist Shrimp Morty",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Shrimp",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/505.jpeg",
+    "location_id": 80
+  },
+  {
+    "id": 506,
+    "name": "Fascist Shrimp SS",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Shrimp",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/506.jpeg",
+    "location_id": 80
+  },
+  {
+    "id": 507,
+    "name": "Fascist Teddy Bear Rick",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Teddy Bear",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/507.jpeg",
+    "location_id": 81
+  },
+  {
+    "id": 508,
+    "name": "Fascist Teddy Bear Rick’s Clone",
+    "status": "Dead",
+    "species": "Animal",
+    "type": "Teddy Bear",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/508.jpeg",
+    "location_id": 81
+  },
+  {
+    "id": 509,
+    "name": "Bully",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/509.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 510,
+    "name": "Anchorman",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/510.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 511,
+    "name": "Anchorwoman",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/511.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 512,
+    "name": "Morty’s Lawyer",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/512.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 513,
+    "name": "Judge",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/513.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 514,
+    "name": "Public Opinion Judge",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/514.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 515,
+    "name": "Caterpillar Mr. Goldenfold",
+    "status": "Dead",
+    "species": "Animal",
+    "type": "Caterpillar",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/515.jpeg",
+    "location_id": 82
+  },
+  {
+    "id": 516,
+    "name": "Wasp Rick",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Wasp",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/516.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 517,
+    "name": "Wasp Rick’s Clone",
+    "status": "unknown",
+    "species": "Animal",
+    "type": "Wasp",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/517.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 518,
+    "name": "Wasp Morty",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Wasp",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/518.jpeg",
+    "location_id": 82
+  },
+  {
+    "id": 519,
+    "name": "Wasp Summer",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Wasp",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/519.jpeg",
+    "location_id": 82
+  },
+  {
+    "id": 520,
+    "name": "Wasp Jerry",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Wasp",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/520.jpeg",
+    "location_id": 82
+  },
+  {
+    "id": 621,
+    "name": "Ruth Bader Ginsburg",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/621.jpeg",
+    "location_id": 99
+  },
+  {
+    "id": 622,
+    "name": "Sarge",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/622.jpeg",
+    "location_id": 96
+  },
+  {
+    "id": 623,
+    "name": "Shrek The Musical Fan",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/623.jpeg",
+    "location_id": 96
+  },
+  {
+    "id": 624,
+    "name": "Snuffles",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/624.jpeg",
+    "location_id": 96
+  },
+  {
+    "id": 625,
+    "name": "Storylord",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/625.jpeg",
+    "location_id": 100
+  },
+  {
+    "id": 626,
+    "name": "Tammy Guetermann",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/626.jpeg",
+    "location_id": 96
+  },
+  {
+    "id": 627,
+    "name": "The Concept of Time",
+    "status": "Alive",
+    "species": "unknown",
+    "type": "Soulless Puppet",
+    "gender": "Genderless",
+    "image": "https://rickandmortyapi.com/api/character/avatar/627.jpeg",
+    "location_id": 96
+  },
+  {
+    "id": 628,
+    "name": "Beth Smith",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/628.jpeg",
+    "location_id": 99
+  },
+  {
+    "id": 629,
+    "name": "Summer Smith",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/629.jpeg",
+    "location_id": 99
+  },
+  {
+    "id": 630,
+    "name": "Morty Smith",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/630.jpeg",
+    "location_id": 96
+  },
+  {
+    "id": 631,
+    "name": "Rick Sanchez",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/631.jpeg",
+    "location_id": 96
+  },
+  {
+    "id": 632,
+    "name": "Train Cop",
+    "status": "Dead",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/632.jpeg",
+    "location_id": 96
+  },
+  {
+    "id": 633,
+    "name": "Train Cops",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/633.jpeg",
+    "location_id": 96
+  },
+  {
+    "id": 634,
+    "name": "Train Cops Instructor",
+    "status": "Dead",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/634.jpeg",
+    "location_id": 96
+  },
+  {
+    "id": 635,
+    "name": "Darth Poopybutthole",
+    "status": "Alive",
+    "species": "Poopybutthole",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/635.jpeg",
+    "location_id": 100
+  },
+  {
+    "id": 636,
+    "name": "Evil Morty",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/636.jpeg",
+    "location_id": 100
+  },
+  {
+    "id": 637,
+    "name": "Morty’s Disguise",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/637.jpeg",
+    "location_id": 96
+  },
+  {
+    "id": 638,
+    "name": "Rick’s Disguise",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/638.jpeg",
+    "location_id": 96
+  },
+  {
+    "id": 639,
+    "name": "Uncle Nibbles",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/639.jpeg",
+    "location_id": 98
+  },
+  {
+    "id": 640,
+    "name": "Angry Glorzo",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Glorzo",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/640.jpeg",
+    "location_id": 101
+  },
+  {
+    "id": 601,
+    "name": "Christmas Storyteller",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/601.jpeg",
+    "location_id": 96
+  },
+  {
+    "id": 602,
+    "name": "Cookies Guy",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/602.jpeg",
+    "location_id": 99
+  },
+  {
+    "id": 603,
+    "name": "Crossy",
+    "status": "Alive",
+    "species": "unknown",
+    "type": "Soulless Puppet",
+    "gender": "Genderless",
+    "image": "https://rickandmortyapi.com/api/character/avatar/603.jpeg",
+    "location_id": 100
+  },
+  {
+    "id": 604,
+    "name": "Female Scorpion",
+    "status": "Dead",
+    "species": "Animal",
+    "type": "Soulless Puppet",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/604.jpeg",
+    "location_id": 99
+  },
+  {
+    "id": 605,
+    "name": "Floaty Bloody Man’s Daughter",
+    "status": "Dead",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/605.jpeg",
+    "location_id": 98
+  },
+  {
+    "id": 606,
+    "name": "Goomby",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/606.jpeg",
+    "location_id": 96
+  },
+  {
+    "id": 607,
+    "name": "Hairspray Fan",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Soulless Puppet",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/607.jpeg",
+    "location_id": 96
+  },
+  {
+    "id": 608,
+    "name": "Jesus Christ",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/608.jpeg",
+    "location_id": 100
+  },
+  {
+    "id": 609,
+    "name": "Josh",
+    "status": "Dead",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/609.jpeg",
+    "location_id": 98
+  },
+  {
+    "id": 610,
+    "name": "Josh's Sister",
+    "status": "Dead",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/610.jpeg",
+    "location_id": 98
+  },
+  {
+    "id": 611,
+    "name": "Leah",
+    "status": "Alive",
+    "species": "unknown",
+    "type": "Soulless Puppet",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/611.jpeg",
+    "location_id": 96
+  },
+  {
+    "id": 612,
+    "name": "Marcus",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/612.jpeg",
+    "location_id": 96
+  },
+  {
+    "id": 613,
+    "name": "Mike Johnson",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/613.jpeg",
+    "location_id": 99
+  },
+  {
+    "id": 614,
+    "name": "Mr. Celery & Friends",
+    "status": "Alive",
+    "species": "unknown",
+    "type": "Soulless Puppet",
+    "gender": "Genderless",
+    "image": "https://rickandmortyapi.com/api/character/avatar/614.jpeg",
+    "location_id": 100
+  },
+  {
+    "id": 615,
+    "name": "Musical Fan",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/615.jpeg",
+    "location_id": 96
+  },
+  {
+    "id": 616,
+    "name": "Phantom of the Opera Fan",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/616.jpeg",
+    "location_id": 96
+  },
+  {
+    "id": 617,
+    "name": "Phoenixperson",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/617.jpeg",
+    "location_id": 96
+  },
+  {
+    "id": 618,
+    "name": "Private Smith",
+    "status": "unknown",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/618.jpeg",
+    "location_id": 96
+  },
+  {
+    "id": 619,
+    "name": "Professor Sanchez",
+    "status": "Dead",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/619.jpeg",
+    "location_id": 96
+  },
+  {
+    "id": 620,
+    "name": "Ramamama Lord",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/620.jpeg",
+    "location_id": 96
+  },
+  {
+    "id": 441,
+    "name": "Bearded Jerry",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/441.jpeg",
+    "location_id": 44
+  },
+  {
+    "id": 442,
+    "name": "Shaved Head Jerry",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/442.jpeg",
+    "location_id": 44
+  },
+  {
+    "id": 443,
+    "name": "Tank Top Jerry",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/443.jpeg",
+    "location_id": 44
+  },
+  {
+    "id": 444,
+    "name": "Pink Polo Shirt Jerry",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/444.jpeg",
+    "location_id": 44
+  },
+  {
+    "id": 445,
+    "name": "Jerryboree Keeper",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/445.jpeg",
+    "location_id": 44
+  },
+  {
+    "id": 446,
+    "name": "Jerryboree Receptionist",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/446.jpeg",
+    "location_id": 44
+  },
+  {
+    "id": 447,
+    "name": "Anchor Gear",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Gear-Person",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/447.jpeg",
+    "location_id": 57
+  },
+  {
+    "id": 448,
+    "name": "Gear Cop",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Gear-Person",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/448.jpeg",
+    "location_id": 57
+  },
+  {
+    "id": 449,
+    "name": "Roy's Mum",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Game",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/449.jpeg",
+    "location_id": 32
+  },
+  {
+    "id": 450,
+    "name": "Roy's Wife",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Game",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/450.jpeg",
+    "location_id": 32
+  },
+  {
+    "id": 451,
+    "name": "Roy's Son",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Game",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/451.jpeg",
+    "location_id": 32
+  },
+  {
+    "id": 452,
+    "name": "Simon",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/452.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 453,
+    "name": "Vampire Master's Assistant",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "type": "Vampire",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/453.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 454,
+    "name": "Arbolian Mentirososian",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "unknown",
+    "image": "https://rickandmortyapi.com/api/character/avatar/454.jpeg",
+    "location_id": 16
+  },
+  {
+    "id": 455,
+    "name": "St. Gloopy Noops Nurse",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/455.jpeg",
+    "location_id": 16
+  },
+  {
+    "id": 456,
+    "name": "Nano Doctor",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Nano Alien",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/456.jpeg",
+    "location_id": 16
+  },
+  {
+    "id": 457,
+    "name": "Funny Songs Presenter",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/457.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 458,
+    "name": "Tax Attorney",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/458.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 459,
+    "name": "Butthole Ice Cream Guy",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/459.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 460,
+    "name": "Traflorkian Journalist",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Traflorkian",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/460.jpeg",
+    "location_id": 16
+  },
+  {
+    "id": 181,
+    "name": "Jessica's Friend",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/181.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 182,
+    "name": "Jim",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/182.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 183,
+    "name": "Johnny Depp",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/183.jpeg",
+    "location_id": 23
+  },
+  {
+    "id": 184,
+    "name": "Jon",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Gazorpian",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/184.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 185,
+    "name": "Joseph Eli Lipkip",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/185.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 186,
+    "name": "Joyce Smith",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/186.jpeg",
+    "location_id": 1
+  },
+  {
+    "id": 187,
+    "name": "Juggling Rick",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/187.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 188,
+    "name": "Karen Entity",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Unknown-nippled alien",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/188.jpeg",
+    "location_id": 28
+  },
+  {
+    "id": 189,
+    "name": "Katarina",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/189.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 190,
+    "name": "Keara",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Krootabulan",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/190.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 191,
+    "name": "Kevin",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Zigerion",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/191.jpeg",
+    "location_id": 46
+  },
+  {
+    "id": 192,
+    "name": "King Flippy Nips",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Plutonian",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/192.jpeg",
+    "location_id": 47
+  },
+  {
+    "id": 193,
+    "name": "King Jellybean",
+    "status": "Dead",
+    "species": "Mythological Creature",
+    "type": "Jellybean",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/193.jpeg",
+    "location_id": 48
+  },
+  {
+    "id": 194,
+    "name": "Kozbian",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Tentacle alien",
+    "gender": "unknown",
+    "image": "https://rickandmortyapi.com/api/character/avatar/194.jpeg",
+    "location_id": 35
+  },
+  {
+    "id": 195,
+    "name": "Kristen Stewart",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/195.jpeg",
+    "location_id": 23
+  },
+  {
+    "id": 196,
+    "name": "Krombopulos Michael",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Gromflomite",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/196.jpeg",
+    "location_id": 0
+  },
+  {
+    "id": 197,
+    "name": "Kyle",
+    "status": "Dead",
+    "species": "Humanoid",
+    "type": "Miniverse inhabitant",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/197.jpeg",
+    "location_id": 50
+  },
+  {
+    "id": 198,
+    "name": "Lady Katana",
+    "status": "Dead",
+    "species": "Humanoid",
+    "type": "Cyborg",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/198.jpeg",
+    "location_id": 29
+  },
+  {
+    "id": 199,
+    "name": "Larva Alien",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Larva alien",
+    "gender": "unknown",
+    "image": "https://rickandmortyapi.com/api/character/avatar/199.jpeg",
+    "location_id": 35
+  },
+  {
+    "id": 200,
+    "name": "Lawyer Morty",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/200.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 121,
+    "name": "Eyehole Man",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/121.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 122,
+    "name": "Fart",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Interdimensional gaseous being",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/122.jpeg",
+    "location_id": 0
+  },
+  {
+    "id": 123,
+    "name": "Fat Morty",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/123.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 124,
+    "name": "Father Bob",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/124.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 125,
+    "name": "Flansian",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Flansian",
+    "gender": "unknown",
+    "image": "https://rickandmortyapi.com/api/character/avatar/125.jpeg",
+    "location_id": 35
+  },
+  {
+    "id": 126,
+    "name": "Fleeb",
+    "status": "unknown",
+    "species": "Alien",
+    "type": "",
+    "gender": "unknown",
+    "image": "https://rickandmortyapi.com/api/character/avatar/126.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 127,
+    "name": "Frank Palicky",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/127.jpeg",
+    "location_id": 1
+  },
+  {
+    "id": 128,
+    "name": "Frankenstein's Monster",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Parasite",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/128.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 129,
+    "name": "Fulgora",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/129.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 130,
+    "name": "Galactic Federation President",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Gromflomite",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/130.jpeg",
+    "location_id": 0
+  },
+  {
+    "id": 131,
+    "name": "Gar Gloonch",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Zombodian",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/131.jpeg",
+    "location_id": 13
+  },
+  {
+    "id": 132,
+    "name": "Gar's Mytholog",
+    "status": "Dead",
+    "species": "Mythological Creature",
+    "type": "Mytholog",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/132.jpeg",
+    "location_id": 13
+  },
+  {
+    "id": 133,
+    "name": "Garblovian",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Garblovian",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/133.jpeg",
+    "location_id": 0
+  },
+  {
+    "id": 134,
+    "name": "Garmanarnar",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/134.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 135,
+    "name": "Garment District Rick",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/135.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 136,
+    "name": "Gazorpazorpfield",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Gazorpian",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/136.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 137,
+    "name": "Gene",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/137.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 138,
+    "name": "General Nathan",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/138.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 139,
+    "name": "General Store Owner",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Cat-Person",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/139.jpeg",
+    "location_id": 9
+  },
+  {
+    "id": 140,
+    "name": "Genital Washer",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/140.jpeg",
+    "location_id": 8
+  },
+  {
+    "id": 141,
+    "name": "Ghost in a Jar",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Parasite",
+    "gender": "Genderless",
+    "image": "https://rickandmortyapi.com/api/character/avatar/141.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 142,
+    "name": "Gibble Snake",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Animal",
+    "gender": "unknown",
+    "image": "https://rickandmortyapi.com/api/character/avatar/142.jpeg",
+    "location_id": 37
+  },
+  {
+    "id": 143,
+    "name": "Glasses Morty",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/143.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 144,
+    "name": "Glenn",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Gromflomite",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/144.jpeg",
+    "location_id": 38
+  },
+  {
+    "id": 145,
+    "name": "Glenn",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Eat shiter-Person",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/145.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 146,
+    "name": "Glexo Slim Slom",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/146.jpeg",
+    "location_id": 13
+  },
+  {
+    "id": 147,
+    "name": "Gobo",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/147.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 148,
+    "name": "Goddess Beth",
+    "status": "unknown",
+    "species": "Mythological Creature",
+    "type": "Goddess",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/148.jpeg",
+    "location_id": 13
+  },
+  {
+    "id": 149,
+    "name": "Gordon Lunas",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/149.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 150,
+    "name": "Cornvelious Daniel",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Gromflomite",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/150.jpeg",
+    "location_id": 39
+  },
+  {
+    "id": 151,
+    "name": "Gwendolyn",
+    "status": "unknown",
+    "species": "Robot",
+    "type": "Gazorpian reproduction robot",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/151.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 152,
+    "name": "Hammerhead Morty",
+    "status": "unknown",
+    "species": "Humanoid",
+    "type": "Hammerhead-Person",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/152.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 153,
+    "name": "Hamster In Butt",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "",
+    "gender": "unknown",
+    "image": "https://rickandmortyapi.com/api/character/avatar/153.jpeg",
+    "location_id": 41
+  },
+  {
+    "id": 154,
+    "name": "Hamurai",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Parasite",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/154.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 155,
+    "name": "Harold",
+    "status": "Alive",
+    "species": "Cronenberg",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/155.jpeg",
+    "location_id": 1
+  },
+  {
+    "id": 156,
+    "name": "Hemorrhage",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/156.jpeg",
+    "location_id": 8
+  },
+  {
+    "id": 157,
+    "name": "Hole in the Wall Where the Men Can See it All",
+    "status": "unknown",
+    "species": "unknown",
+    "type": "Hole",
+    "gender": "Genderless",
+    "image": "https://rickandmortyapi.com/api/character/avatar/157.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 158,
+    "name": "Hookah Alien",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Tuskfish",
+    "gender": "unknown",
+    "image": "https://rickandmortyapi.com/api/character/avatar/158.jpeg",
+    "location_id": 38
+  },
+  {
+    "id": 159,
+    "name": "Hunter",
+    "status": "Dead",
+    "species": "Human",
+    "type": "Clone",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/159.jpeg",
+    "location_id": 42
+  },
+  {
+    "id": 160,
+    "name": "Hunter's Father",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/160.jpeg",
+    "location_id": 42
+  },
+  {
+    "id": 261,
+    "name": "Photography Cyborg",
+    "status": "unknown",
+    "species": "Robot",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/261.jpeg",
+    "location_id": 35
+  },
+  {
+    "id": 262,
+    "name": "Photography Raptor",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Parasite",
+    "gender": "unknown",
+    "image": "https://rickandmortyapi.com/api/character/avatar/262.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 263,
+    "name": "Pibbles Bodyguard",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Hairy alien",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/263.jpeg",
+    "location_id": 16
+  },
+  {
+    "id": 264,
+    "name": "Pichael Thompson",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "Conjoined twin",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/264.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 265,
+    "name": "Pickle Rick",
+    "status": "Alive",
+    "species": "unknown",
+    "type": "Pickle",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/265.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 266,
+    "name": "Piece of Toast",
+    "status": "Alive",
+    "species": "unknown",
+    "type": "Bread",
+    "gender": "Genderless",
+    "image": "https://rickandmortyapi.com/api/character/avatar/266.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 267,
+    "name": "Plumber Rick",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/267.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 268,
+    "name": "Poncho",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/268.jpeg",
+    "location_id": 5
+  },
+  {
+    "id": 269,
+    "name": "Presidentress of The Mega Gargantuans",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "Mega Gargantuan",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/269.jpeg",
+    "location_id": 56
+  },
+  {
+    "id": 270,
+    "name": "Prince Nebulon",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Zigerion",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/270.jpeg",
+    "location_id": 46
+  },
+  {
+    "id": 271,
+    "name": "Principal Vagina",
+    "status": "Alive",
+    "species": "Cronenberg",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/271.jpeg",
+    "location_id": 1
+  },
+  {
+    "id": 272,
+    "name": "Principal Vagina",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/272.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 273,
+    "name": "Purge Planet Ruler",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Cat-Person",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/273.jpeg",
+    "location_id": 9
+  },
+  {
+    "id": 274,
+    "name": "Quantum Rick",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/274.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 275,
+    "name": "Randy Dicknose",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/275.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 276,
+    "name": "Rat Boss",
+    "status": "Dead",
+    "species": "Animal",
+    "type": "Rat",
+    "gender": "unknown",
+    "image": "https://rickandmortyapi.com/api/character/avatar/276.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 277,
+    "name": "Real Fake Doors Salesman",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/277.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 278,
+    "name": "Regional Manager Rick",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/278.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 279,
+    "name": "Regular Legs",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/279.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 280,
+    "name": "Reverse Giraffe",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Parasite",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/280.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 281,
+    "name": "Reverse Rick Outrage",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/281.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 282,
+    "name": "Revolio Clockberg Jr.",
+    "status": "unknown",
+    "species": "Alien",
+    "type": "Gear-Person",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/282.jpeg",
+    "location_id": 57
+  },
+  {
+    "id": 283,
+    "name": "Rick D. Sanchez III",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/283.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 284,
+    "name": "Rick Guilt Rick",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/284.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 285,
+    "name": "Rick Prime",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/285.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 286,
+    "name": "Rick D-99",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/286.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 287,
+    "name": "Rick D716",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/287.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 288,
+    "name": "Rick D716-B",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/288.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 289,
+    "name": "Rick D716-C",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/289.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 290,
+    "name": "Rick Sanchez",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/290.jpeg",
+    "location_id": 34
+  },
+  {
+    "id": 291,
+    "name": "Rick J-22",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/291.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 292,
+    "name": "Rick K-22",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/292.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 293,
+    "name": "Rick Sanchez",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/293.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 294,
+    "name": "Ricktiminus Sancheziminius",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/294.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 295,
+    "name": "Riq IV",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/295.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 296,
+    "name": "Risotto Groupon",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Blue ape alien",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/296.jpeg",
+    "location_id": 37
+  },
+  {
+    "id": 297,
+    "name": "Risotto's Tentacled Henchman",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Tentacle alien",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/297.jpeg",
+    "location_id": 37
+  },
+  {
+    "id": 298,
+    "name": "Robot Morty",
+    "status": "unknown",
+    "species": "Robot",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/298.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 299,
+    "name": "Robot Rick",
+    "status": "unknown",
+    "species": "Robot",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/299.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 300,
+    "name": "Roger",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/300.jpeg",
+    "location_id": 5
+  },
+  {
+    "id": 201,
+    "name": "Leonard Smith",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/201.jpeg",
+    "location_id": 1
+  },
+  {
+    "id": 202,
+    "name": "Lighthouse Keeper",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Cat-Person",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/202.jpeg",
+    "location_id": 9
+  },
+  {
+    "id": 203,
+    "name": "Lil B",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Snail alien",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/203.jpeg",
+    "location_id": 35
+  },
+  {
+    "id": 204,
+    "name": "Lisa",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/204.jpeg",
+    "location_id": 7
+  },
+  {
+    "id": 205,
+    "name": "Little Dipper",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "Tinymouth",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/205.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 206,
+    "name": "Lizard Morty",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "Lizard-Person",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/206.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 207,
+    "name": "Loggins",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Alligator-Person",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/207.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 208,
+    "name": "Logic",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/208.jpeg",
+    "location_id": 4
+  },
+  {
+    "id": 209,
+    "name": "Long Sleeved Morty",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/209.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 210,
+    "name": "Lucy",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/210.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 211,
+    "name": "Ma-Sha",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Gazorpian",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/211.jpeg",
+    "location_id": 40
+  },
+  {
+    "id": 212,
+    "name": "Magma-Q",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Alphabetrian",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/212.jpeg",
+    "location_id": 43
+  },
+  {
+    "id": 213,
+    "name": "Magnesium-J",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Alphabetrian",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/213.jpeg",
+    "location_id": 43
+  },
+  {
+    "id": 214,
+    "name": "Man Painted Silver Who Makes Robot Noises",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/214.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 215,
+    "name": "Maximums Rickimus",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/215.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 216,
+    "name": "MC Haps",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/216.jpeg",
+    "location_id": 1
+  },
+  {
+    "id": 217,
+    "name": "Mechanical Morty",
+    "status": "Dead",
+    "species": "Robot",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/217.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 218,
+    "name": "Mechanical Rick",
+    "status": "unknown",
+    "species": "Robot",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/218.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 219,
+    "name": "Mechanical Summer",
+    "status": "unknown",
+    "species": "Robot",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/219.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 220,
+    "name": "Mega Fruit Farmer Rick",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/220.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 161,
+    "name": "Hydrogen-F",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Alphabetrian",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/161.jpeg",
+    "location_id": 43
+  },
+  {
+    "id": 162,
+    "name": "Ice-T",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Alphabetrian",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/162.jpeg",
+    "location_id": 43
+  },
+  {
+    "id": 163,
+    "name": "Ideal Jerry",
+    "status": "Dead",
+    "species": "Mythological Creature",
+    "type": "Mytholog",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/163.jpeg",
+    "location_id": 13
+  },
+  {
+    "id": 164,
+    "name": "Insurance Rick",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/164.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 165,
+    "name": "Investigator Rick",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/165.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 166,
+    "name": "Invisi-trooper",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/166.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 167,
+    "name": "Izzy",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Cat",
+    "gender": "unknown",
+    "image": "https://rickandmortyapi.com/api/character/avatar/167.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 168,
+    "name": "Jackie",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Gazorpian",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/168.jpeg",
+    "location_id": 40
+  },
+  {
+    "id": 169,
+    "name": "Jacob",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/169.jpeg",
+    "location_id": 1
+  },
+  {
+    "id": 170,
+    "name": "Jacqueline",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/170.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 171,
+    "name": "Jaguar",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/171.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 172,
+    "name": "Jamey",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/172.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 173,
+    "name": "Jan-Michael Vincent",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/173.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 174,
+    "name": "Jerry 5-126",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/174.jpeg",
+    "location_id": 44
+  },
+  {
+    "id": 175,
+    "name": "Jerry Smith",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/175.jpeg",
+    "location_id": 1
+  },
+  {
+    "id": 176,
+    "name": "Celebrity Jerry",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/176.jpeg",
+    "location_id": 23
+  },
+  {
+    "id": 177,
+    "name": "Jerry Smith",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/177.jpeg",
+    "location_id": 34
+  },
+  {
+    "id": 178,
+    "name": "Jerry's Mytholog",
+    "status": "Dead",
+    "species": "Mythological Creature",
+    "type": "Mytholog",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/178.jpeg",
+    "location_id": 13
+  },
+  {
+    "id": 179,
+    "name": "Jessica",
+    "status": "Alive",
+    "species": "Cronenberg",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/179.jpeg",
+    "location_id": 1
+  },
+  {
+    "id": 180,
+    "name": "Jessica",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/180.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 301,
+    "name": "Ron Benson",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Ring-nippled alien",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/301.jpeg",
+    "location_id": 28
+  },
+  {
+    "id": 302,
+    "name": "Ruben",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/302.jpeg",
+    "location_id": 1
+  },
+  {
+    "id": 303,
+    "name": "Samantha",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/303.jpeg",
+    "location_id": 1
+  },
+  {
+    "id": 304,
+    "name": "Scary Brandon",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "type": "Monster",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/304.jpeg",
+    "location_id": 18
+  },
+  {
+    "id": 305,
+    "name": "Scary Glenn",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "type": "Monster",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/305.jpeg",
+    "location_id": 18
+  },
+  {
+    "id": 306,
+    "name": "Scary Terry",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "type": "Monster",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/306.jpeg",
+    "location_id": 18
+  },
+  {
+    "id": 307,
+    "name": "Scroopy Noopers",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Plutonian",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/307.jpeg",
+    "location_id": 47
+  },
+  {
+    "id": 308,
+    "name": "Scropon",
+    "status": "unknown",
+    "species": "Alien",
+    "type": "Lobster-Alien",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/308.jpeg",
+    "location_id": 35
+  },
+  {
+    "id": 309,
+    "name": "Scrotian",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Scrotian",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/309.jpeg",
+    "location_id": 22
+  },
+  {
+    "id": 310,
+    "name": "Self-Congratulatory Jerry",
+    "status": "unknown",
+    "species": "Mythological Creature",
+    "type": "Mytholog",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/310.jpeg",
+    "location_id": 13
+  },
+  {
+    "id": 311,
+    "name": "Shimshamian",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Shimshamian",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/311.jpeg",
+    "location_id": 35
+  },
+  {
+    "id": 312,
+    "name": "Shlaammi",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "unknown",
+    "image": "https://rickandmortyapi.com/api/character/avatar/312.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 313,
+    "name": "Shleemypants",
+    "status": "Alive",
+    "species": "unknown",
+    "type": "Omniscient being",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/313.jpeg",
+    "location_id": 78
+  },
+  {
+    "id": 314,
+    "name": "Shmlamantha Shmlicelli",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/314.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 315,
+    "name": "Shmlangela Shmlobinson-Shmlower",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/315.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 316,
+    "name": "Shmlona Shmlobinson",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/316.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 317,
+    "name": "Shmlonathan Shmlower",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/317.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 318,
+    "name": "Shmlony Shmlicelli",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/318.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 319,
+    "name": "Shmooglite Runner",
+    "status": "unknown",
+    "species": "Alien",
+    "type": "Animal",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/319.jpeg",
+    "location_id": 37
+  },
+  {
+    "id": 320,
+    "name": "Shnoopy Bloopers",
+    "status": "unknown",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/320.jpeg",
+    "location_id": 7
+  },
+  {
+    "id": 221,
+    "name": "Melissa",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "type": "Monster",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/221.jpeg",
+    "location_id": 18
+  },
+  {
+    "id": 222,
+    "name": "Michael Denny and the Denny Singers",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/222.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 223,
+    "name": "Michael Jenkins",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/223.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 224,
+    "name": "Michael McLick",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/224.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 225,
+    "name": "Michael Thompson",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "Conjoined twin",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/225.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 226,
+    "name": "Million Ants",
+    "status": "Dead",
+    "species": "Animal",
+    "type": "Sentient ant colony",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/226.jpeg",
+    "location_id": 4
+  },
+  {
+    "id": 227,
+    "name": "Mitch",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/227.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 228,
+    "name": "Mohawk Guy",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/228.jpeg",
+    "location_id": 8
+  },
+  {
+    "id": 229,
+    "name": "Morty Mart Manager Morty",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/229.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 230,
+    "name": "Morty Jr.",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "Human Gazorpian",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/230.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 231,
+    "name": "Morty Rick",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/231.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 232,
+    "name": "Morty Smith",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/232.jpeg",
+    "location_id": 34
+  },
+  {
+    "id": 233,
+    "name": "Morty K-22",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/233.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 234,
+    "name": "Morty Smith",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/234.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 235,
+    "name": "Mortytown Loco",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/235.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 236,
+    "name": "Mr. Beauregard",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Parasite",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/236.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 237,
+    "name": "Mr. Benson",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/237.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 238,
+    "name": "Mr. Booby Buyer",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "type": "Boobie buyer reptilian",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/238.jpeg",
+    "location_id": 48
+  },
+  {
+    "id": 239,
+    "name": "Mr. Goldenfold",
+    "status": "Alive",
+    "species": "Cronenberg",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/239.jpeg",
+    "location_id": 1
+  },
+  {
+    "id": 240,
+    "name": "Mr. Goldenfold",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/240.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 341,
+    "name": "Taddy Mason",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/341.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 342,
+    "name": "Taint Washer",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/342.jpeg",
+    "location_id": 8
+  },
+  {
+    "id": 343,
+    "name": "Tammy Guetermann",
+    "status": "Alive",
+    "species": "Cronenberg",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/343.jpeg",
+    "location_id": 1
+  },
+  {
+    "id": 344,
+    "name": "Tammy Guetermann",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/344.jpeg",
+    "location_id": 105
+  },
+  {
+    "id": 345,
+    "name": "Teacher Rick",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/345.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 346,
+    "name": "Terry",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/346.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 347,
+    "name": "The President",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/347.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 348,
+    "name": "The President of the Miniverse",
+    "status": "Dead",
+    "species": "Humanoid",
+    "type": "Miniverse inhabitant",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/348.jpeg",
+    "location_id": 49
+  },
+  {
+    "id": 349,
+    "name": "The Scientist Formerly Known as Rick",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/349.jpeg",
+    "location_id": 0
+  },
+  {
+    "id": 350,
+    "name": "Thomas Lipkip",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/350.jpeg",
+    "location_id": 63
+  },
+  {
+    "id": 351,
+    "name": "Three Unknown Things",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "unknown",
+    "image": "https://rickandmortyapi.com/api/character/avatar/351.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 352,
+    "name": "Tinkles",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Parasite",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/352.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 353,
+    "name": "Tiny Rick",
+    "status": "Dead",
+    "species": "Human",
+    "type": "Clone",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/353.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 354,
+    "name": "Toby Matthews",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/354.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 355,
+    "name": "Todd Crystal",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Unknown-nippled alien",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/355.jpeg",
+    "location_id": 28
+  },
+  {
+    "id": 356,
+    "name": "Tom Randolph",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/356.jpeg",
+    "location_id": 1
+  },
+  {
+    "id": 357,
+    "name": "Tommy's Clone",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Clone",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/357.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 358,
+    "name": "Tophat Jones",
+    "status": "Dead",
+    "species": "Mythological Creature",
+    "type": "Leprechaun",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/358.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 359,
+    "name": "Tortured Morty",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/359.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 360,
+    "name": "Toxic Morty",
+    "status": "Dead",
+    "species": "Humanoid",
+    "type": "Morty's toxic side",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/360.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 321,
+    "name": "Shrimply Pibbles",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/321.jpeg",
+    "location_id": 16
+  },
+  {
+    "id": 322,
+    "name": "Simple Rick",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/322.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 323,
+    "name": "Slaveowner",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/323.jpeg",
+    "location_id": 8
+  },
+  {
+    "id": 324,
+    "name": "Sleepy Gary",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Parasite",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/324.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 325,
+    "name": "Slick Morty",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/325.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 326,
+    "name": "Slippery Stair",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "type": "Slug",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/326.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 327,
+    "name": "Slow Mobius",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/327.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 328,
+    "name": "Slow Rick",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/328.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 329,
+    "name": "Snuffles (Snowball)",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Dog",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/329.jpeg",
+    "location_id": 0
+  },
+  {
+    "id": 330,
+    "name": "Solicitor Rick",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/330.jpeg",
+    "location_id": 3
+  },
+  {
+    "id": 331,
+    "name": "Squanchy",
+    "status": "unknown",
+    "species": "Alien",
+    "type": "Cat-Person",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/331.jpeg",
+    "location_id": 35
+  },
+  {
+    "id": 332,
+    "name": "Stacy",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/332.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 333,
+    "name": "Stair Goblin",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "type": "Stair goblin",
+    "gender": "Genderless",
+    "image": "https://rickandmortyapi.com/api/character/avatar/333.jpeg",
+    "location_id": 48
+  },
+  {
+    "id": 334,
+    "name": "Stealy",
+    "status": "Alive",
+    "species": "Poopybutthole",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/334.jpeg",
+    "location_id": 6
+  },
+  {
+    "id": 335,
+    "name": "Steve",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/335.jpeg",
+    "location_id": 20
+  },
+  {
+    "id": 336,
+    "name": "Steven Phillips",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Unknown-nippled alien",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/336.jpeg",
+    "location_id": 28
+  },
+  {
+    "id": 337,
+    "name": "Stu",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Zigerion",
+    "gender": "Male",
+    "image": "https://rickandmortyapi.com/api/character/avatar/337.jpeg",
+    "location_id": 46
+  },
+  {
+    "id": 338,
+    "name": "Summer Smith",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/338.jpeg",
+    "location_id": 1
+  },
+  {
+    "id": 339,
+    "name": "Summer Smith",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/339.jpeg",
+    "location_id": 34
+  },
+  {
+    "id": 340,
+    "name": "Supernova",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Superhuman",
+    "gender": "Female",
+    "image": "https://rickandmortyapi.com/api/character/avatar/340.jpeg",
+    "location_id": 4
+  }
+]
