@@ -40,12 +40,12 @@ app.all('/api/*', function(req, res, next) {
 
 // Routes
 const Locations = require('./routes/Locations');
+const Characters = require('./routes/Characters');
 // const Episodes = require('./routes/Episodes');
-// const Characters = require('./routes/Characters');
 
 app.use('/api/locations', Locations);
+app.use('/api/characters', Characters);
 // app.use('/episodes', Episodes);
-// app.use('/characters', Characters);
 
 const port = process.env.PORT || 5000;
 
