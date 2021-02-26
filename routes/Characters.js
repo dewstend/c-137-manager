@@ -39,11 +39,11 @@ characters.get('/:character_id', (req, res) => {
       if (character) {
         res.send(character);
       } else {
-        res.status(400).json('Character does not exist');
+        res.status(404).json('Character does not exist');
       }
     })
     .catch(err => {
-      res.status(400).json('Characters search error: ' + err);
+      res.status(500).json('Characters search error: ' + err);
     });
 });
 

@@ -39,11 +39,11 @@ locations.get('/:location_id', (req, res) => {
       if (location) {
         res.send(location);
       } else {
-        res.status(400).json('Location does not exist');
+        res.status(404).json('Location does not exist');
       }
     })
     .catch(err => {
-      res.status(400).json('Locations search error: ' + err);
+      res.status(500).json('Locations search error: ' + err);
     });
 });
 
