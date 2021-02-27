@@ -16,6 +16,7 @@ characters.get('/', (req, res) => {
     .then(characters => {
       if (characters) {
         res.send({
+          page,
           ...util.getPagingData(page, characters.count, pagination.limit, req),
           ...characters
         });

@@ -16,6 +16,7 @@ locations.get('/', (req, res) => {
     .then(locations => {
       if (locations) {
         res.send({
+          page,
           ...util.getPagingData(page, locations.count, pagination.limit, req),
           ...locations
         });

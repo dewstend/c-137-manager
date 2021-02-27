@@ -40,6 +40,7 @@ episodes.get('/', (req, res) => {
   .then(episodes => {
     if (episodes) {
       res.send({
+        page,
         ...util.getPagingData(page, episodes.count, pagination.limit, req),
         ...episodes
       });
