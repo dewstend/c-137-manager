@@ -18,14 +18,14 @@ import PeopleIcon from '@material-ui/icons/People';
 import PinDropIcon from '@material-ui/icons/PinDrop';
 import FormatListNumberedIcon from '@material-ui/icons/FormatListNumbered';
 
-const drawerWidth = 240;
+const drawerWidth = 200;
 
 const useStyles = makeStyles((theme) => ({
   root: {
     display: 'flex',
   },
   drawer: {
-    [theme.breakpoints.up('sm')]: {
+    [theme.breakpoints.up('md')]: {
       width: drawerWidth,
       flexShrink: 0,
     },
@@ -35,11 +35,10 @@ const useStyles = makeStyles((theme) => ({
   },
   menuButton: {
     marginRight: theme.spacing(2),
-    [theme.breakpoints.up('sm')]: {
+    [theme.breakpoints.up('md')]: {
       display: 'none',
     },
   },
-  // necessary for content to be below app bar
   toolbar: theme.mixins.toolbar,
   drawerPaper: {
     width: drawerWidth,
@@ -47,6 +46,12 @@ const useStyles = makeStyles((theme) => ({
   content: {
     flexGrow: 1,
     padding: theme.spacing(3),
+    [theme.breakpoints.up('md')]: {
+      maxWidth: '90vw'
+    },
+    [theme.breakpoints.down('md')]: {
+      maxWidth: '100vw'
+    }
   },
 }));
 
@@ -62,7 +67,7 @@ function Header(props) {
 
   const drawer = (
     <div>
-      <Hidden xsDown implementation="css">
+      <Hidden smDown implementation="css">
         <div className={classes.toolbar} />
       </Hidden>
       <Divider />
@@ -100,12 +105,11 @@ function Header(props) {
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" noWrap>
-            Responsive drawer
+            C-137 Manager
           </Typography>
         </Toolbar>
       </AppBar>
       <nav className={classes.drawer} aria-label="mailbox folders">
-        {/* The implementation can be swapped with js to avoid SEO duplication of links. */}
         <Hidden smUp implementation="css">
           <Drawer
             container={container}
@@ -117,13 +121,13 @@ function Header(props) {
               paper: classes.drawerPaper,
             }}
             ModalProps={{
-              keepMounted: true, // Better open performance on mobile.
+              keepMounted: true,
             }}
           >
             {drawer}
           </Drawer>
         </Hidden>
-        <Hidden xsDown implementation="css">
+        <Hidden smDown implementation="css">
           <Drawer
             classes={{
               paper: classes.drawerPaper,
