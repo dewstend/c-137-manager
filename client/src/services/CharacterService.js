@@ -5,6 +5,8 @@ const getAll = (params) => {
   return http.get("/characters", { params });
 };
 
-export default {
+const CharacterService = {
 	getAll
-}
+};
+
+export default CharacterService;
