@@ -1,22 +1,30 @@
 # C-137 Manager
+Simple CRUD app using Node.js, React + Material UI. It also has Sequelize with SQLite3.
+I made this as a technical challenge for an interview with the app idea and starting data.
 
-Para construir el código fuente, instalar node_modules.
+Server design and implementation by me.
+
+Client implementation by me.
+
+
+## Setup
+Install the server's dependencies
 
     yarn
-    // ó
+    // or
     npm install
     
-Instalar node_modules del cliente.
+Install the client's dependencies.
 
     cd ./client
     yarn
-    // ó
+    // or
     npm install
 
-E inicializar y poblar la base de datos con la herramienta CLI.
+Initialize and populate the database with the CLI tool.
 
     yarn initialize
-    // ó
+    // or
     npm run initialize
     
-**Advertencia**: Inicializar limpiará datos existentes.
+**Warning**: Initializing will wipe out existing data.
